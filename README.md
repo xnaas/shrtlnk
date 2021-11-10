@@ -4,7 +4,8 @@
 
 Mostly got tired of needing to know links to software, but
 didn't want to archive older versions of stuff from the
-endpoints they're coming from.
+endpoints they're coming from. Also searching up the same
+thing over and over and over gets really, really old.
 
 (Admittedly, this is mostly to make life at work easier.)
 
