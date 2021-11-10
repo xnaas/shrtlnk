@@ -11,6 +11,8 @@ but if you want to contribute *now*: just try and match
 what is already present in this repository.
 
 ## Current Shortlinks
+Note: "latest" doesn't always guarantee latest. Submit a PR
+if a link needs to be updated.
 
 ### [Dell Command Update](https://shrtlnk.win/dcu)
 Download the latest version on Dell Command Update.
