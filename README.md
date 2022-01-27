@@ -23,3 +23,4 @@ what is already present in this repository.
 | Dell SupportAssist         | [/dsa](/dsa)       | Latest   |
 | Display Driver Uninstaller | [/ddu](/ddu)       | 18.0.4.6 |
 | Hiren's BootCD             | [/hirens](/hirens) | Latest   |
+| Office 365                 | [/o365](/o365)     | Latest(?)|
