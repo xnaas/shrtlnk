@@ -24,3 +24,4 @@ what is already present in this repository.
 | Display Driver Uninstaller | [/ddu](/ddu)       | 18.0.4.6 |
 | Hiren's BootCD             | [/hirens](/hirens) | Latest   |
 | Office 365                 | [/o365](/o365)     | Latest(?)|
+| Alot                       | [/alot](/alot)     | N/A      |
