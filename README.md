@@ -19,7 +19,7 @@ what is already present in this repository.
 
 | Software                   | Link               | Version  |
 | :---                       | :---               | ---:     |
-| Dell Command Update        | [/dcu](/dcu)       | 4.4.0    |
+| Dell Command Update        | [/dcu](/dcu)       | 4.5.0    |
 | Dell SupportAssist         | [/dsa](/dsa)       | Latest   |
 | Display Driver Uninstaller | [/ddu](/ddu)       | 18.0.4.6 |
 | Hiren's BootCD             | [/hirens](/hirens) | Latest   |
